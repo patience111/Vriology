@@ -1,6 +1,6 @@
 # Vriology
 Awesome_vriology
-##General
+## General
 ### Awesome course
 * Virology – Biology 3310/4310 http://www.virology.ws/course/
 * Influenza 101 http://www.virology.ws/influenza-101/
