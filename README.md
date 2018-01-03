@@ -14,4 +14,6 @@ Awesome_vriology
  <br> http://www.chp.gov.hk/en/healthtopics/content/24/12431.html
 * EV71 wiki https://en.wikipedia.org/wiki/Enterovirus_71 
 * EV71 Microbe Wiki https://microbewiki.kenyon.edu/index.php/Enterovirus_71
+## Sequence Data Resources
+* International Nucleotide Sequence Database Collaboration https://www.ncbi.nlm.nih.gov/genbank/collab/
 
