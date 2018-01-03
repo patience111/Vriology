@@ -11,5 +11,7 @@ Awesome_vriology
 ### Enterovirus
 #### Enterovirus 71(EV71)
 * EV71 Infection http://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+topics/health+conditions+prevention+and+treatment/infectious+diseases/enterovirus+71+ev71+infection
+ <br> http://www.chp.gov.hk/en/healthtopics/content/24/12431.html
 * EV71 wiki https://en.wikipedia.org/wiki/Enterovirus_71 
- 
+* EV71 Microbe Wiki https://microbewiki.kenyon.edu/index.php/Enterovirus_71
+
