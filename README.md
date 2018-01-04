@@ -7,6 +7,8 @@ Awesome_vriology
 ### Awesome material & blogs
 * MicrobeTV http://www.microbe.tv/
 * Virology blog http://www.virology.ws/
+* Viral Zone https://viralzone.expasy.org 
+
 ## Classification
 ### Enterovirus
 #### Enterovirus 71(EV71)
