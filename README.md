@@ -18,4 +18,4 @@ Awesome_vriology
 * EV71 Microbe Wiki https://microbewiki.kenyon.edu/index.php/Enterovirus_71
 ## Sequence Data Resources
 * International Nucleotide Sequence Database Collaboration https://www.ncbi.nlm.nih.gov/genbank/collab/
-
+* gisaid https://www.gisaid.org/
