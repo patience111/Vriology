@@ -19,3 +19,4 @@ Awesome_vriology
 ## Sequence Data Resources
 * International Nucleotide Sequence Database Collaboration https://www.ncbi.nlm.nih.gov/genbank/collab/
 * GISAID https://www.gisaid.org/
+* Influenza Virus Resource Database<br>https://www.ncbi.nlm.nih.gov/genomes/FLU/Database/nph-select.cgi?go=database
