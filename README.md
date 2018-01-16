@@ -8,7 +8,8 @@ Awesome_vriology
 * MicrobeTV http://www.microbe.tv/
 * Virology blog http://www.virology.ws/
 * Viral Zone https://viralzone.expasy.org 
-
+## Interesting Scientist collection
+* Dr Yu Hong Jie<br>http://www.shulanfund.org/news_info.php?171
 ## Classification
 ### Enterovirus
 #### Enterovirus 71(EV71)
