@@ -10,6 +10,7 @@ Awesome_vriology
 * Viral Zone https://viralzone.expasy.org 
 * European Virus Bioinformatics Center<br>http://evbc.uni-jena.de/
 * VIRO GENESIS <br>http://www.virogenesis.eu/
+* Verywell<br>https://www.verywell.com/what-is-influenza-a-770484
 ## Interesting Scientist collection
 * Dr Yu Hong Jie<br>http://www.shulanfund.org/news_info.php?171
 ## Classification
