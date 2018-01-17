@@ -11,8 +11,9 @@ Awesome_vriology
 * European Virus Bioinformatics Center<br>http://evbc.uni-jena.de/
 * VIRO GENESIS <br>http://www.virogenesis.eu/
 * Verywell<br>https://www.verywell.com/what-is-influenza-a-770484
-## Interesting Scientist collection
+## Interesting Scientist Collection
 * Dr Yu Hong Jie<br>http://www.shulanfund.org/news_info.php?171
+* George Fu Gao<br> http://www.caspmi.cn/gaog/index.html
 ## Classification
 ### Enterovirus
 #### Enterovirus 71(EV71)
