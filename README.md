@@ -11,6 +11,7 @@ Awesome_vriology
 * European Virus Bioinformatics Center<br>http://evbc.uni-jena.de/
 * VIRO GENESIS <br>http://www.virogenesis.eu/
 * Verywell<br>https://www.verywell.com/what-is-influenza-a-770484
+* iBiology<br> https://www.youtube.com/channel/UCsvqEZBO-kNmwuDBbKbfL6A
 ## Interesting Scientist Collection
 * Dr Yu Hong Jie<br>http://www.shulanfund.org/news_info.php?171
 * George Fu Gao<br> http://www.caspmi.cn/gaog/index.html<br> http://news.sciencenet.cn/htmlnews/2016/6/348062.shtm
