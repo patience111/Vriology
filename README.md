@@ -13,7 +13,9 @@ Awesome_vriology
 * Verywell<br>https://www.verywell.com/what-is-influenza-a-770484
 ## Interesting Scientist Collection
 * Dr Yu Hong Jie<br>http://www.shulanfund.org/news_info.php?171
-* George Fu Gao<br> http://www.caspmi.cn/gaog/index.html
+* George Fu Gao<br> http://www.caspmi.cn/gaog/index.html<br> http://news.sciencenet.cn/htmlnews/2016/6/348062.shtm
+* Hua Lan
+  Chen<br>http://www.hvri.ac.cn/html/rencaiduiwu/yuanshi/20171206/777.html<br>http://www.caas.net.cn/rcjy1/zjxz/nkycgbcs/255609.html<br>http://news.sciencenet.cn/htmlnews/2016/4/344704.shtm<br>http://www.casad.cas.cn/aca/371/smkxhyxxb-201711-t20171129_4625061.html
 ## Classification
 ### Enterovirus
 #### Enterovirus 71(EV71)
