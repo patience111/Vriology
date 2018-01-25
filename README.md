@@ -12,11 +12,13 @@ Awesome_vriology
 * VIRO GENESIS <br>http://www.virogenesis.eu/
 * Verywell<br>https://www.verywell.com/what-is-influenza-a-770484
 * iBiology<br> https://www.youtube.com/channel/UCsvqEZBO-kNmwuDBbKbfL6A
+* Influenza Facts<br>https://www.stjude.org/research/departments-divisions/infectious-diseases/influenza-facts.html
 ## Interesting Scientist Collection
 * Dr Yu Hong Jie<br>http://www.shulanfund.org/news_info.php?171
 * George Fu Gao<br> http://www.caspmi.cn/gaog/index.html<br> http://news.sciencenet.cn/htmlnews/2016/6/348062.shtm
 * Hualan Chen<br>http://www.hvri.ac.cn/html/rencaiduiwu/yuanshi/20171206/777.html<br>http://www.caas.net.cn/rcjy1/zjxz/nkycgbcs/255609.html<br>http://news.sciencenet.cn/htmlnews/2016/4/344704.shtm<br>http://www.casad.cas.cn/aca/371/smkxhyxxb-201711-t20171129_4625061.html
 * Wuchun Cao <br>http://www.nsfc.gov.cn/publish/portal0/tab347/info40632.htm
+* Richard J. Webby<br>https://www.stjude.org/directory/w/richard-webby.html
 
 ## Classification
 ### Enterovirus
