@@ -19,6 +19,7 @@ Awesome_vriology
 * Hualan Chen<br>http://www.hvri.ac.cn/html/rencaiduiwu/yuanshi/20171206/777.html<br>http://www.caas.net.cn/rcjy1/zjxz/nkycgbcs/255609.html<br>http://news.sciencenet.cn/htmlnews/2016/4/344704.shtm<br>http://www.casad.cas.cn/aca/371/smkxhyxxb-201711-t20171129_4625061.html
 * Wuchun Cao <br>http://www.nsfc.gov.cn/publish/portal0/tab347/info40632.htm
 * Richard J. Webby<br>https://www.stjude.org/directory/w/richard-webby.html
+* Edward Holmes<br>https://royalsociety.org/people/edward-holmes-13395/
 
 ## Classification
 ### Enterovirus
