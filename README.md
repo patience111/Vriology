@@ -36,4 +36,6 @@ Awesome_vriology
 * Influenza Virus Resource Database(Bao et al., 2008)<br>https://www.ncbi.nlm.nih.gov/genomes/FLU/Database/nph-select.cgi?go=database
 * Influenza Research Database(Macken et al., 2001)<br>https://www.fludb.org/brc/home.spg?decorator=influenza
 ### Influenza
-#### Antigenic<br>https://www.cdc.gov/flu/professionals/laboratory/antigenic.htm
+#### Antigenic<br>
+* https://www.cdc.gov/flu/professionals/laboratory/antigenic.htm
+
