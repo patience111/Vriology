@@ -14,5 +14,7 @@ class TestAnonmyousSurvey(unittest.TestCase):
         my_survey=AnonymousSurvey(question)
         responses=['English','Spanish','Mandarin']
         for response in responses:
+            my_survey.store_response(response)
+        for response in responses:
             self.assertIn(response,my_survey.responses)
-    unittest.main()
+unittest.main()
