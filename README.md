@@ -43,3 +43,4 @@ Awesome_vriology
 #### Natural reservoir
 * http://niaolei.org.cn/
 * http://niaolei.org.cn/posts/3543
+* Avibase<br>https://avibase.bsc-eoc.org/avibase.jsp
