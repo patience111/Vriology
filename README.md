@@ -35,9 +35,11 @@ Awesome_vriology
 * International Nucleotide Sequence Database Collaboration https://www.ncbi.nlm.nih.gov/genbank/collab/
 * GISAID https://www.gisaid.org/
 * Influenza Virus Resource Database(Bao et al., 2008)<br>https://www.ncbi.nlm.nih.gov/genomes/FLU/Database/nph-select.cgi?go=database
-* Influenza Research Database(Macken et al., 2001)<br>https://www.fludb.org/brc/home.spg?decorator=influenza
-* Index of /genomes/INFLUENZA/<br> ftp://ftp.ncbi.nih.gov/genomes/INFLUENZA/
+* Influenza Reesearch Database(Macken et al., 2001)<br>https://www.fludb.org/brc/home.spg?decorator=influenza
+* Index of /grenomes/INFLUENZA/<br> ftp://ftp.ncbi.nih.gov/genomes/INFLUENZA/
 ### Influenza
 #### Antigenic<br>
 * https://www.cdc.gov/flu/professionals/laboratory/antigenic.htm
-
+#### Natural reservoir
+* http://niaolei.org.cn/
+* http://niaolei.org.cn/posts/3543
