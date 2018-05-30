@@ -45,3 +45,4 @@ Awesome_vriology
 * http://niaolei.org.cn/posts/3543
 * Avibase<br>https://avibase.bsc-eoc.org/avibase.jsp
 * The Cornell Lab of Ornithology <br>http://www.birds.cornell.edu/page.aspx?pid=1478 
+* Handbook of the Birds of the World <br> https://www.hbw.com/
