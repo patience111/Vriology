@@ -15,6 +15,7 @@ Awesome_vriology
 * iBiology<br> https://www.youtube.com/channel/UCsvqEZBO-kNmwuDBbKbfL6A
 * Influenza Facts<br>https://www.stjude.org/research/departments-divisions/infectious-diseases/influenza-facts.html
 * Emerging & Re-emerging viruses special issue<br>http://engine.scichina.com/publisher/scp/journal/SCLS/specialTopics/postArticles/LhN9XhsNCgvZh5DBG
+* About Virological<br>http://virological.org/about
 ## Interesting Scientist Collection
 * Dr Yu Hong Jie<br>http://www.shulanfund.org/news_info.php?171
 * George Fu Gao<br> http://www.caspmi.cn/gaog/index.html<br> http://news.sciencenet.cn/htmlnews/2016/6/348062.shtm
